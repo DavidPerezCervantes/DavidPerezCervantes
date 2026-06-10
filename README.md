@@ -4,8 +4,8 @@
   <h1>Hola, soy David Pérez Cervantes 👋</h1>
   <h3>Actuario | Data Analyst | R Shiny Developer</h3>
   <p>
-    <a href="mailto:TU_CORREO@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://linkedin.com/in/TU_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:david.perez.cervantes.247@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/david-p%C3%A9rez-cervantes-636a14415/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 </div>
 
@@ -19,7 +19,7 @@ Puedes interactuar con mis proyectos en vivo directamente aquí:
 
 <div align="center">
   <br/>
-  <a href="URL_DE_TU_PERFIL_EN_SHINYAPPS_O_PORTAFOLIO">
+  <a href="https://davidperezcervantes.github.io/R_Projects_Premium/">
     <img src="https://img.shields.io/badge/🚀_Explorar_Mis_Dashboards_en_Vivo-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="Ver Dashboards" />
   </a>
   <br/><br/>
@@ -72,6 +72,6 @@ Soy estudiante de 8.º semestre de **Actuaría** con formación técnica en **Me
 ## 📊 Mi Actividad en Código
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidPerezCervantes&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidPerezCervantes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%"/>
 </div>
