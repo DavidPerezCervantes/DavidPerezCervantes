@@ -39,7 +39,7 @@ Soy estudiante de 8.º semestre de **Actuaría** y profesor titular de ciencias 
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| **Liderazgo Técnico:**<br/>*De la idea a la app* | **Clase Magistral Universitaria.** Impartí la enseñanza sobre arquitectura y despliegue de Dashboards en R. Traducción de modelos abstractos a interfaces operativas.<br/><br/>[<img src="https://img.shields.io/badge/📄_Ver_Certificado_Oficial-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />](TU_LINK_AL_PDF_AQUI) | `Docencia STEM`<br/>`Data Viz`<br/>`R Shiny` |
+| **Liderazgo Técnico:**<br/>*De la idea a la app* | **Clase Magistral Universitaria.** Impartí la enseñanza sobre arquitectura y despliegue de Dashboards en R. Traducción de modelos abstractos a interfaces operativas.<br/><br/>[<img src="https://img.shields.io/badge/📄_Ver_Certificado_Oficial-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />](https://drive.google.com/file/d/1TMj3MZgjSsLIBqetMckTEkZQWOIkwK8M/view?usp=sharing) | `Docencia STEM`<br/>`Data Viz`<br/>`R Shiny` |
 | **Suite Actuarial:**<br/>*Probabilidad & SOA* | **Colección de Dashboards Interactivos.** Proyecto dividido en dos enfoques: ejecución en vivo de aproximaciones por cuadrícula para **Estadística Bayesiana**, y desarrollo de soluciones visuales para la guía **PBOOK de la SOA**. | `R` `Shiny`<br/>`ggplot2`<br/>`Bayesiana` |
 | **Data Ops (WIP):**<br/>*Pipelines & Limpieza* | **Investigación y Desarrollo Activo.** Estructurando la arquitectura de cruces de bases de datos transaccionales (`JOINs`) y automatización de limpieza de registros anómalos. Transición de lógica relacional hacia código puro. | `SQL`<br/>`Python`<br/>`Pandas` |
 
