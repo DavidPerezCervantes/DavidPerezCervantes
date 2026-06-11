@@ -4,7 +4,7 @@
   <h1>Hola, soy David Pérez Cervantes 👋</h1>
   
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=276DC3&center=true&vCenter=true&width=500&lines=Actuario;Data+Analyst;R+Shiny+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=276DC3&center=true&vCenter=true&width=500&lines=Actuario;Data+Analyst;Educador+STEM;R+Shiny+Developer" alt="Typing SVG" />
   </h3>
 
   <p>
@@ -18,18 +18,16 @@
 
 ## 🧠 Sobre mi perfil analítico
 
-Soy estudiante de 8.º semestre de **Actuaría** con formación técnica en **Mecatrónica**. Esta combinación me permite estructurar consultas complejas en bases de datos con la lógica de un programador, y modelar el comportamiento de esos datos con el rigor de un matemático.
+Soy estudiante de 8.º semestre de **Actuaría** y profesor titular de ciencias exactas. Mi perfil se define por una capacidad comprobada para resolver problemas matemáticos densos y, más importante aún, traducirlos a un lenguaje accesible tanto para aspirantes universitarios como para tomadores de decisiones en el mundo corporativo.
 
-- 🔭 **Enfoque actual:** Análisis exploratorio de datos (EDA), desarrollo de aplicaciones interactivas y estadística Bayesiana.
-- 🌱 **Evolución técnica:** Expandiendo mis flujos de limpieza de datos de Excel avanzado hacia entornos automatizados con **SQL** y **Python (Pandas)**.
-- ⚡ **ADN de Datos:** Me apasiona tomar bases de datos crudas, encontrar anomalías y construir visualizaciones que cuenten la historia real del negocio.
-- 🤖 **IA Aplicada:** Utilizo Prompt Engineering para la depuración ágil de scripts y la estructuración eficiente de bases de datos.
+- 🔭 **El Puente entre los Datos y el Negocio:** Combino el rigor estadístico de la Actuaría con la pedagogía necesaria para explicar qué significan realmente los números.
+- 🌱 **Evolución técnica:** Actualmente escalando mi sólida base en R hacia la automatización de flujos de datos complejos integrando **SQL** y **Python**.
+- ⚡ **ADN de Datos:** Me apasiona tomar bases de datos crudas, encontrar las anomalías lógicas y construir visualizaciones interactivas que cuenten la historia real.
+- 🤖 **IA Aplicada:** Utilizo Prompt Engineering para la depuración ágil de scripts y la estructuración eficiente de arquitecturas de bases de datos.
 
 <br/>
 
-## 🚀 Proyectos y Dashboards Interactivos
-
-Mi mayor fortaleza es traducir matemáticas complejas a interfaces visuales que cualquier gerente pueda entender. A continuación, destaco mi portafolio de aplicaciones en línea y repositorios de código clave:
+## 🚀 Portafolio Analítico y Proyectos Clave
 
 <div align="center">
   <br/>
@@ -41,9 +39,9 @@ Mi mayor fortaleza es traducir matemáticas complejas a interfaces visuales que 
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| **[Inferencia Bayesiana Interactiva](#)** | Dashboard web para ejecutar aproximaciones por cuadrícula con distribuciones probabilísticas en tiempo real. | `R` `Shiny` `ggplot2` |
-| **[De la idea a la app (Clase Universitaria)](#)** | Material, código y arquitectura de la masterclass que impartí sobre la creación y despliegue de Dashboards en R. | `Data Viz` `R Shiny` |
-| **[Análisis y Limpieza de Datos Financieros](#)** | Script de limpieza y cruce de información (`JOINs`) para grandes volúmenes de datos transaccionales, detectando inconsistencias numéricas. | `SQL` `Python` `Pandas` |
+| **Liderazgo Técnico:**<br/>*De la idea a la app* | **Clase Magistral Universitaria.** Impartí la enseñanza sobre arquitectura y despliegue de Dashboards en R. Traducción de modelos abstractos a interfaces operativas.<br/><br/>[<img src="https://img.shields.io/badge/📄_Ver_Certificado_Oficial-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />](TU_LINK_AL_PDF_AQUI) | `Docencia STEM`<br/>`Data Viz`<br/>`R Shiny` |
+| **Suite Actuarial:**<br/>*Probabilidad & SOA* | **Colección de Dashboards Interactivos.** Proyecto dividido en dos enfoques: ejecución en vivo de aproximaciones por cuadrícula para **Estadística Bayesiana**, y desarrollo de soluciones visuales para la guía **PBOOK de la SOA**. | `R` `Shiny`<br/>`ggplot2`<br/>`Bayesiana` |
+| **Data Ops (WIP):**<br/>*Pipelines & Limpieza* | **Investigación y Desarrollo Activo.** Estructurando la arquitectura de cruces de bases de datos transaccionales (`JOINs`) y automatización de limpieza de registros anómalos. Transición de lógica relacional hacia código puro. | `SQL`<br/>`Python`<br/>`Pandas` |
 
 <br/>
 
@@ -64,9 +62,6 @@ Mi mayor fortaleza es traducir matemáticas complejas a interfaces visuales que 
 
 <br/>
 
-## 📊 Mi Actividad en Código
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidPerezCervantes&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidPerezCervantes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%"/>
+  <i>"El rigor matemático solo tiene impacto real cuando sabes explicarlo."</i>
 </div>
